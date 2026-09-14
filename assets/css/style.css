@@ -2,6 +2,9 @@
     background-color: white;
     align-content: center;
 }
+hr {
+    background-color: black;
+}
 body {
     overflow-x: hidden;
 }

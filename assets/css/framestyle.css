@@ -1,0 +1,29 @@
+* {
+    background-color: white;
+    padding: 2px;
+}
+
+hr {
+    background-color: black;
+}
+
+header h1 {
+    background-color: darkgreen;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+    font-family: 'Limelight';
+}
+img {
+    height: 750px;
+    width: 500px;
+}
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

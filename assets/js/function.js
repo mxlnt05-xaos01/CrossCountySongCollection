@@ -16,6 +16,12 @@ hover.forEach(area => {
         }
     });
     area.addEventListener('mouseout', () => {
+        county.textContent = "";
         county.classList.add('hidden');
     });
 });
+
+// // JSON Notice:
+// async function Fetch(filepath) {
+//     const response = await fetch(filepath);
+// }
